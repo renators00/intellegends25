@@ -115,6 +115,7 @@ h4 {font-weight: normal !important;}
 .box-text a:hover {text-decoration: none !important; opacity: 0.6 !important;}
 .box-text .container .single-about-txt {width: 100% !important;}
 
+.footer-copyright .container {padding-bottom: 30px !important;}
 
 /*=====================================================================================================*/
 /* Mobile */
